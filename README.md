@@ -33,12 +33,3 @@ Autre risque très connu : l'exécution de code Javascript malveillant.
 <br/><br/>
 <hr/>
 
-Exercices suivants à venir :
-
-## A2. Violation de gestion d’Authentification et de session
-
-## A5. Manque de contrôle d'accès
-
-## A6. Mauvaise configuration de la sécurité
-
-## A8. Désérialisation non sécurisée
